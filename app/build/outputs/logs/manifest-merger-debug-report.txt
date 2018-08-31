@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:2:1-87:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\d9fa80509044e836b49424de46033fda\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\54367737193a4ab6afe2cb8f6df4b311\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\c1cb8b95ce9008e9dfa4fface50c6da6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e2e83e2520d6f46e9a3c5637c2b0ba48\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\980dca931dc743de29ec7fed1bdeb2c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\0c3db037ee101b7eb006d464289f94c2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8ec0996bcf10adc9d24902707ca939be\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:13:5-85:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\d9fa80509044e836b49424de46033fda\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\d9fa80509044e836b49424de46033fda\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\54367737193a4ab6afe2cb8f6df4b311\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\54367737193a4ab6afe2cb8f6df4b311\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\c1cb8b95ce9008e9dfa4fface50c6da6\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\c1cb8b95ce9008e9dfa4fface50c6da6\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e2e83e2520d6f46e9a3c5637c2b0ba48\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e2e83e2520d6f46e9a3c5637c2b0ba48\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\0c3db037ee101b7eb006d464289f94c2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\0c3db037ee101b7eb006d464289f94c2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8ec0996bcf10adc9d24902707ca939be\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8ec0996bcf10adc9d24902707ca939be\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:17:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:15:9-59
+	android:icon
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:18:9-40
+activity#rts.pptviewer.SlideActivity
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:19:9-60:20
+	android:screenOrientation
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:22:13-50
+	android:label
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:20:13-42
+intent-filter#action:name:com.singuloid.read.pptx+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:23:13-27:29
+action#com.singuloid.read.pptx
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:24:17-66
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:24:25-63
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:26:27-73
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/vnd.ms-powerpoint+data:pathPattern:.*\\.ppt
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:28:13-38:29
+	android:scheme
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:29:17-38
+	tools:ignore
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:30:17-47
+action#android.intent.action.VIEW
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:34:17-78
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:34:27-75
+data
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:36:17-74
+	android:host
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:57:23-39
+	android:scheme
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:56:23-44
+	android:pathPattern
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:37:23-53
+	android:mimeType
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:36:23-71
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/vnd.openxmlformats-officedocument.presentationml.presentation+data:pathPattern:.*\\.ppt
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:39:13-49:29
+	android:scheme
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:40:17-38
+	tools:ignore
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:41:17-47
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:pathPattern:.*\\.ppt+data:scheme:file
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:50:13-59:29
+activity#rts.pptviewer.MenuActivity
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:61:9-72:20
+	android:screenOrientation
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:64:13-50
+	android:label
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:63:13-56
+	android:theme
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:62:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:66:13-70:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:67:17-69
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:67:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:69:17-77
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:69:27-74
+activity#rts.pptviewer.PlaybackActivity
+ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:73:9-84:20
+	android:screenOrientation
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:76:13-50
+	android:label
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:75:13-56
+	android:theme
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:77:13-56
+	android:name
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml:74:13-45
+uses-sdk
+INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\d9fa80509044e836b49424de46033fda\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\d9fa80509044e836b49424de46033fda\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\54367737193a4ab6afe2cb8f6df4b311\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\54367737193a4ab6afe2cb8f6df4b311\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\c1cb8b95ce9008e9dfa4fface50c6da6\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\c1cb8b95ce9008e9dfa4fface50c6da6\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e2e83e2520d6f46e9a3c5637c2b0ba48\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e2e83e2520d6f46e9a3c5637c2b0ba48\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\980dca931dc743de29ec7fed1bdeb2c9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\980dca931dc743de29ec7fed1bdeb2c9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\0c3db037ee101b7eb006d464289f94c2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\0c3db037ee101b7eb006d464289f94c2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8ec0996bcf10adc9d24902707ca939be\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8ec0996bcf10adc9d24902707ca939be\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\54367737193a4ab6afe2cb8f6df4b311\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Android\Documents\GitHub\My-PPT-Presentation\app\src\main\AndroidManifest.xml
