@@ -3186,6 +3186,7 @@ public final class R {
     public static final int android=0x7f0b0001;
     public static final int presentyourppt=0x7f0b0002;
     public static final int video_file=0x7f0b0003;
+    public static final int video_file1=0x7f0b0004;
   }
   public static final class string {
     public static final int abc_action_bar_home_description=0x7f0c0000;

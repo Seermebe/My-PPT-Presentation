@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Aug 31 14:52:52 COT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Android\\Documents\\GitHub\\My-PPT-Presentation\\My-PPT-Presentation\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Android\\Downloads\\My-PPT-Presentation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
+            "outputFile": "C:\\Users\\Android\\Documents\\GitHub\\My-PPT-Presentation\\My-PPT-Presentation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\54367737193a4ab6afe2cb8f6df4b311\\res\\values-tr\\values-tr.xml",

@@ -853,6 +853,7 @@ int raw a1 0x7f0b0000
 int raw android 0x7f0b0001
 int raw presentyourppt 0x7f0b0002
 int raw video_file 0x7f0b0003
+int raw video_file1 0x7f0b0004
 int string abc_action_bar_home_description 0x7f0c0000
 int string abc_action_bar_home_description_format 0x7f0c0001
 int string abc_action_bar_home_subtitle_description_format 0x7f0c0002

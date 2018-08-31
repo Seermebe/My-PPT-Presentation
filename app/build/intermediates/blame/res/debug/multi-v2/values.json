@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Android\\Downloads\\My-PPT-Presentation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Android\\Documents\\GitHub\\My-PPT-Presentation\\My-PPT-Presentation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-v7-23.4.0.aar\\980dca931dc743de29ec7fed1bdeb2c9\\res\\values\\values.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Android\\Downloads\\My-PPT-Presentation\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\Android\\Documents\\GitHub\\My-PPT-Presentation\\My-PPT-Presentation\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -38,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Android\\Downloads\\My-PPT-Presentation\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "3,4,5",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "56,110,195",
-                        "endColumns": "53,84,60",
-                        "endOffsets": "105,190,251"
-                    },
-                    "to": {
-                        "startLines": "403,405,409",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "50249,50448,50812",
-                        "endColumns": "53,84,60",
-                        "endOffsets": "50298,50528,50868"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Android\\Downloads\\My-PPT-Presentation\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Android\\Documents\\GitHub\\My-PPT-Presentation\\My-PPT-Presentation\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "6,15,24,19,26",
                         "startColumns": "4,4,4,4,4",
@@ -71,6 +54,23 @@
                         "endLines": "424,427,428,432,433",
                         "endColumns": "12,12,89,12,79",
                         "endOffsets": "51800,51960,52050,52200,52280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Android\\Documents\\GitHub\\My-PPT-Presentation\\My-PPT-Presentation\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "56,110,195",
+                        "endColumns": "53,84,60",
+                        "endOffsets": "105,190,251"
+                    },
+                    "to": {
+                        "startLines": "403,405,409",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "50249,50448,50812",
+                        "endColumns": "53,84,60",
+                        "endOffsets": "50298,50528,50868"
                     }
                 },
                 {
